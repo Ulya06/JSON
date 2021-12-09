@@ -1,0 +1,8 @@
+{    
+"Summary":"The item doesn't end up in the cart",    
+"Descriprion":"When you click the 'send to cart' button, it doesn't go to the cart",       
+"Actual result":"button 'send to cart' things go to the cart",    
+"Expected result":"button 'send to cart' things doesn't go to the cart",    
+ "Steps to reproduce":[ "open link https://www.clothers.com/", "choose clothes", "click the 'send to cart' button"],    
+ "Severity":"severy",    
+}

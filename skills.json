@@ -7,7 +7,7 @@
 "Jmeter": "Basic knowledge of load testing", 
 "SQL, MySQL Server":"Basic knowledge", 
 "Python": "Basic knowledge", 
-"DevTools": ["Viewing element codes, errors, scripts, server requests and responses", "emulating device web pages", "clearing cookies"], 
+"DevTools": ["Viewing element codes, errors, scripts, server requests and responses", "emulating device web pages", "clearing cookiess"], 
 "Javascript": "Basic knowledge" 
 }
 

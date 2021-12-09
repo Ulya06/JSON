@@ -1,0 +1,13 @@
+{ 
+"Git, GitHub, GitBash": ["creating repositories and branches", "adding/ modifying files", "merging branches"], 
+"Terminal Linux": ["pwd", "cd", "cd .." , "ls", "touch", "nano", "mkdir", "find", "mv", "less", "head", "tail", "date", "vim"], 
+"Postman": ["Sending requests", "recording the environment", "exporting the collection", "cheking the response code"], 
+"Android Studio": ["Building and running the application on an emulator and a real device", "testing"], 
+"Charles, Fiddler": ["Installing a certificate", "intercepting and replacing traffic", "connected mobile device"], 
+"Jmeter": "Basic knowledge of load testing", 
+"SQL, MySQL Server":"Basic knowledge", 
+"Python": "Basic knowledge", 
+"DevTools": ["Viewing element codes, errors, scripts, server requests and responses", "emulating device web pages", "clearing cookies"], 
+"Javascript": "Basic knowledge" 
+}
+
